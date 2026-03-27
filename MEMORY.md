@@ -21,3 +21,7 @@ Long-term curated memory for Max and Gizmo.
 - Use daily journals to preserve context from conversations.
 - Set up Discord workflows and daily briefs.
 - Improve memory, operations, and reliability over time.
+
+## Working agreements
+
+- For every project/repo Max and Gizmo build, there should be a designated Discord channel, and project-related chat should stay confined to that channel.
