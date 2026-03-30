@@ -37,4 +37,20 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+## Secrets
+
+- Store sensitive credentials in `~/.openclaw/secrets/` as separate files rather than mixing them into chat or general notes.
+- Gmail OAuth client JSON lives at `~/.openclaw/secrets/gmail-oauth-client.json`.
+- Gmail OAuth token lives at `~/.openclaw/secrets/gmail-token.json`.
+- Prefer one secret per file when practical (for example OAuth client JSON, tokens, API keys), with restrictive permissions.
+
+## Email / Gmail
+
+- Gmail API sending is set up and working.
+- Tool directory: `/Users/maxfergie/.openclaw/workspace/tools/gmail/`
+- Main script: `/Users/maxfergie/.openclaw/workspace/tools/gmail/gmail.js`
+- Auth command: `cd /Users/maxfergie/.openclaw/workspace/tools/gmail && node gmail.js auth`
+- Send command: `cd /Users/maxfergie/.openclaw/workspace/tools/gmail && node gmail.js send --to "someone@example.com" --subject "Subject" --body "Message"`
+- Use Gmail API / OAuth flow rather than raw password login.
+
 Add whatever helps you do your job. This is your cheat sheet.

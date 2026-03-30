@@ -1,0 +1,8 @@
+BOM station IDs from assignment document
+- Melbourne: 086071
+- Perth: 009021
+- Brisbane: 040223
+- Adelaide: 023034
+- Sydney: 066062
+- Hobart: 094029
+- Gold Coast: 040717

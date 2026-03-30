@@ -1,0 +1,273 @@
+Origin_City,Destination_City,Distance_KM_One_Way,Distance_KM_Return
+Adelaide,Alice Springs,1329,2658
+Adelaide,Ballarat,554,1108
+Adelaide,Brisbane,1601,3202
+Adelaide,Cairns,2126,4252
+Adelaide,Canberra,958,1916
+Adelaide,Darwin,2617,5234
+Adelaide,Geelong,627,1254
+Adelaide,Gold Coast,1598,3196
+Adelaide,Hobart,1162,2324
+Adelaide,Launceston,1039,2078
+Adelaide,Melbourne,654,1308
+Adelaide,Perth,2131,4262
+Adelaide,Shanghai,7572,15144
+Adelaide,Sydney,1162,2324
+Adelaide,Townsville,1921,3842
+Adelaide,Wellington,3219,6438
+Alice Springs,Adelaide,1329,2658
+Alice Springs,Ballarat,1810,3620
+Alice Springs,Brisbane,1963,3926
+Alice Springs,Cairns,1451,2902
+Alice Springs,Canberra,1954,3908
+Alice Springs,Darwin,1290,2580
+Alice Springs,Geelong,1889,3778
+Alice Springs,Gold Coast,2009,4018
+Alice Springs,Hobart,2465,4930
+Alice Springs,Launceston,2325,4650
+Alice Springs,Melbourne,1890,3780
+Alice Springs,Perth,1992,3984
+Alice Springs,Shanghai,6249,12498
+Alice Springs,Sydney,2028,4056
+Alice Springs,Townsville,1426,2852
+Alice Springs,Wellington,4253,8506
+Ballarat,Adelaide,554,1108
+Ballarat,Alice Springs,1810,3620
+Ballarat,Brisbane,1412,2824
+Ballarat,Cairns,2303,4606
+Ballarat,Canberra,536,1072
+Ballarat,Darwin,3076,6152
+Ballarat,Geelong,79,158
+Ballarat,Gold Coast,1385,2770
+Ballarat,Hobart,661,1322
+Ballarat,Launceston,515,1030
+Ballarat,Melbourne,102,204
+Ballarat,Perth,2621,5242
+Ballarat,Shanghai,7995,15990
+Ballarat,Sydney,781,1562
+Ballarat,Townsville,2055,4110
+Ballarat,Wellington,2674,5348
+Brisbane,Adelaide,1601,3202
+Brisbane,Alice Springs,1963,3926
+Brisbane,Ballarat,1412,2824
+Brisbane,Cairns,1390,2780
+Brisbane,Canberra,944,1888
+Brisbane,Darwin,2847,5694
+Brisbane,Geelong,1436,2872
+Brisbane,Gold Coast,71,142
+Brisbane,Hobart,1789,3578
+Brisbane,Launceston,1643,3286
+Brisbane,Melbourne,1374,2748
+Brisbane,Perth,3606,7212
+Brisbane,Shanghai,7335,14670
+Brisbane,Sydney,732,1464
+Brisbane,Townsville,1111,2222
+Brisbane,Wellington,2507,5014
+Cairns,Adelaide,2126,4252
+Cairns,Alice Springs,1451,2902
+Cairns,Ballarat,2303,4606
+Cairns,Brisbane,1390,2780
+Cairns,Canberra,2069,4138
+Cairns,Darwin,1680,3360
+Cairns,Geelong,2365,4730
+Cairns,Gold Coast,1461,2922
+Cairns,Hobart,2891,5782
+Cairns,Launceston,2729,5458
+Cairns,Melbourne,2325,4650
+Cairns,Perth,3442,6884
+Cairns,Shanghai,5950,11900
+Cairns,Sydney,1961,3922
+Cairns,Townsville,282,564
+Cairns,Wellington,3874,7748
+Canberra,Adelaide,958,1916
+Canberra,Alice Springs,1954,3908
+Canberra,Ballarat,536,1072
+Canberra,Brisbane,944,1888
+Canberra,Cairns,2069,4138
+Canberra,Darwin,3133,6266
+Canberra,Geelong,531,1062
+Canberra,Gold Coast,903,1806
+Canberra,Hobart,859,1718
+Canberra,Launceston,706,1412
+Canberra,Melbourne,467,934
+Canberra,Perth,3088,6176
+Canberra,Shanghai,7940,15880
+Canberra,Sydney,247,494
+Canberra,Townsville,1796,3592
+Canberra,Wellington,2326,4652
+Darwin,Adelaide,2617,5234
+Darwin,Alice Springs,1290,2580
+Darwin,Ballarat,3076,6152
+Darwin,Brisbane,2847,5694
+Darwin,Cairns,1680,3360
+Darwin,Canberra,3133,6266
+Darwin,Geelong,3154,6308
+Darwin,Gold Coast,2911,5822
+Darwin,Hobart,3736,7472
+Darwin,Launceston,3589,7178
+Darwin,Melbourne,3148,6296
+Darwin,Perth,2653,5306
+Darwin,Shanghai,4960,9920
+Darwin,Sydney,3149,6298
+Darwin,Townsville,1866,3732
+Darwin,Wellington,5323,10646
+Geelong,Adelaide,627,1254
+Geelong,Alice Springs,1889,3778
+Geelong,Ballarat,79,158
+Geelong,Brisbane,1436,2872
+Geelong,Cairns,2365,4730
+Geelong,Canberra,531,1062
+Geelong,Darwin,3154,6308
+Geelong,Gold Coast,1405,2810
+Geelong,Hobart,583,1166
+Geelong,Launceston,436,872
+Geelong,Melbourne,65,130
+Geelong,Perth,2673,5346
+Geelong,Shanghai,8072,16144
+Geelong,Sydney,778,1556
+Geelong,Townsville,2114,4228
+Geelong,Wellington,2611,5222
+Gold Coast,Adelaide,1598,3196
+Gold Coast,Alice Springs,2009,4018
+Gold Coast,Ballarat,1385,2770
+Gold Coast,Brisbane,71,142
+Gold Coast,Cairns,1461,2922
+Gold Coast,Canberra,903,1806
+Gold Coast,Darwin,2911,5822
+Gold Coast,Geelong,1405,2810
+Gold Coast,Hobart,1741,3482
+Gold Coast,Launceston,1596,3192
+Gold Coast,Melbourne,1343,2686
+Gold Coast,Perth,3624,7248
+Gold Coast,Shanghai,7406,14812
+Gold Coast,Sydney,683,1366
+Gold Coast,Townsville,1182,2364
+Gold Coast,Wellington,2438,4876
+Hobart,Adelaide,1162,2324
+Hobart,Alice Springs,2465,4930
+Hobart,Ballarat,661,1322
+Hobart,Brisbane,1789,3578
+Hobart,Cairns,2891,5782
+Hobart,Canberra,859,1718
+Hobart,Darwin,3736,7472
+Hobart,Geelong,583,1166
+Hobart,Gold Coast,1741,3482
+Hobart,Launceston,162,324
+Hobart,Melbourne,598,1196
+Hobart,Perth,3010,6020
+Hobart,Shanghai,8653,17306
+Hobart,Sydney,1057,2114
+Hobart,Townsville,2627,5254
+Hobart,Wellington,2262,4524
+Launceston,Adelaide,1039,2078
+Launceston,Alice Springs,2325,4650
+Launceston,Ballarat,515,1030
+Launceston,Brisbane,1643,3286
+Launceston,Cairns,2729,5458
+Launceston,Canberra,706,1412
+Launceston,Darwin,3589,7178
+Launceston,Geelong,436,872
+Launceston,Gold Coast,1596,3192
+Launceston,Hobart,162,324
+Launceston,Melbourne,444,888
+Launceston,Perth,2962,5924
+Launceston,Shanghai,8498,16996
+Launceston,Sydney,914,1828
+Launceston,Townsville,2466,4932
+Launceston,Wellington,2296,4592
+Melbourne,Adelaide,654,1308
+Melbourne,Alice Springs,1890,3780
+Melbourne,Ballarat,102,204
+Melbourne,Brisbane,1374,2748
+Melbourne,Cairns,2325,4650
+Melbourne,Canberra,467,934
+Melbourne,Darwin,3148,6296
+Melbourne,Geelong,65,130
+Melbourne,Gold Coast,1343,2686
+Melbourne,Hobart,598,1196
+Melbourne,Launceston,444,888
+Melbourne,Perth,2722,5444
+Melbourne,Shanghai,8055,16110
+Melbourne,Sydney,713,1426
+Melbourne,Townsville,2071,4142
+Melbourne,Wellington,2572,5144
+Perth,Adelaide,2131,4262
+Perth,Alice Springs,1992,3984
+Perth,Ballarat,2621,5242
+Perth,Brisbane,3606,7212
+Perth,Cairns,3442,6884
+Perth,Canberra,3088,6176
+Perth,Darwin,2653,5306
+Perth,Geelong,2673,5346
+Perth,Gold Coast,3624,7248
+Perth,Hobart,3010,6020
+Perth,Launceston,2962,5924
+Perth,Melbourne,2722,5444
+Perth,Shanghai,7050,14100
+Perth,Sydney,3291,6582
+Perth,Townsville,3393,6786
+Perth,Wellington,5258,10516
+Shanghai,Adelaide,7572,15144
+Shanghai,Alice Springs,6249,12498
+Shanghai,Ballarat,7995,15990
+Shanghai,Brisbane,7335,14670
+Shanghai,Cairns,5950,11900
+Shanghai,Canberra,7940,15880
+Shanghai,Darwin,4960,9920
+Shanghai,Geelong,8072,16144
+Shanghai,Gold Coast,7406,14812
+Shanghai,Hobart,8653,17306
+Shanghai,Launceston,8498,16996
+Shanghai,Melbourne,8055,16110
+Shanghai,Perth,7050,14100
+Shanghai,Sydney,7881,15762
+Shanghai,Townsville,6232,12464
+Shanghai,Wellington,9741,19482
+Sydney,Adelaide,1162,2324
+Sydney,Alice Springs,2028,4056
+Sydney,Ballarat,781,1562
+Sydney,Brisbane,732,1464
+Sydney,Cairns,1961,3922
+Sydney,Canberra,247,494
+Sydney,Darwin,3149,6298
+Sydney,Geelong,778,1556
+Sydney,Gold Coast,683,1366
+Sydney,Hobart,1057,2114
+Sydney,Launceston,914,1828
+Sydney,Melbourne,713,1426
+Sydney,Perth,3291,6582
+Sydney,Shanghai,7881,15762
+Sydney,Townsville,1682,3364
+Sydney,Wellington,2226,4452
+Townsville,Adelaide,1921,3842
+Townsville,Alice Springs,1426,2852
+Townsville,Ballarat,2055,4110
+Townsville,Brisbane,1111,2222
+Townsville,Cairns,282,564
+Townsville,Canberra,1796,3592
+Townsville,Darwin,1866,3732
+Townsville,Geelong,2114,4228
+Townsville,Gold Coast,1182,2364
+Townsville,Hobart,2627,5254
+Townsville,Launceston,2466,4932
+Townsville,Melbourne,2071,4142
+Townsville,Perth,3393,6786
+Townsville,Shanghai,6232,12464
+Townsville,Sydney,1682,3364
+Townsville,Wellington,3604,7208
+Wellington,Adelaide,3219,6438
+Wellington,Alice Springs,4253,8506
+Wellington,Ballarat,2674,5348
+Wellington,Brisbane,2507,5014
+Wellington,Cairns,3874,7748
+Wellington,Canberra,2326,4652
+Wellington,Darwin,5323,10646
+Wellington,Geelong,2611,5222
+Wellington,Gold Coast,2438,4876
+Wellington,Hobart,2262,4524
+Wellington,Launceston,2296,4592
+Wellington,Melbourne,2572,5144
+Wellington,Perth,5258,10516
+Wellington,Shanghai,9741,19482
+Wellington,Sydney,2226,4452
+Wellington,Townsville,3604,7208

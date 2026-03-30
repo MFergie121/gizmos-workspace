@@ -1,0 +1,50 @@
+City,State,Month,Month_Num,Avg_Max_Temp_C,Avg_Min_Temp_C,Avg_Rainfall_mm,BOM_Station_ID
+Melbourne,VIC,March,3,,,,086071
+Melbourne,VIC,April,4,,,,086071
+Melbourne,VIC,May,5,,,,086071
+Melbourne,VIC,June,6,,,,086071
+Melbourne,VIC,July,7,,,,086071
+Melbourne,VIC,August,8,,,,086071
+Melbourne,VIC,September,9,,,,086071
+Perth,WA,March,3,,,,009021
+Perth,WA,April,4,,,,009021
+Perth,WA,May,5,,,,009021
+Perth,WA,June,6,,,,009021
+Perth,WA,July,7,,,,009021
+Perth,WA,August,8,,,,009021
+Perth,WA,September,9,,,,009021
+Brisbane,QLD,March,3,,,,040223
+Brisbane,QLD,April,4,,,,040223
+Brisbane,QLD,May,5,,,,040223
+Brisbane,QLD,June,6,,,,040223
+Brisbane,QLD,July,7,,,,040223
+Brisbane,QLD,August,8,,,,040223
+Brisbane,QLD,September,9,,,,040223
+Adelaide,SA,March,3,,,,023034
+Adelaide,SA,April,4,,,,023034
+Adelaide,SA,May,5,,,,023034
+Adelaide,SA,June,6,,,,023034
+Adelaide,SA,July,7,,,,023034
+Adelaide,SA,August,8,,,,023034
+Adelaide,SA,September,9,,,,023034
+Sydney,NSW,March,3,,,,066062
+Sydney,NSW,April,4,,,,066062
+Sydney,NSW,May,5,,,,066062
+Sydney,NSW,June,6,,,,066062
+Sydney,NSW,July,7,,,,066062
+Sydney,NSW,August,8,,,,066062
+Sydney,NSW,September,9,,,,066062
+Hobart,TAS,March,3,,,,094029
+Hobart,TAS,April,4,,,,094029
+Hobart,TAS,May,5,,,,094029
+Hobart,TAS,June,6,,,,094029
+Hobart,TAS,July,7,,,,094029
+Hobart,TAS,August,8,,,,094029
+Hobart,TAS,September,9,,,,094029
+Gold Coast,QLD,March,3,,,,040717
+Gold Coast,QLD,April,4,,,,040717
+Gold Coast,QLD,May,5,,,,040717
+Gold Coast,QLD,June,6,,,,040717
+Gold Coast,QLD,July,7,,,,040717
+Gold Coast,QLD,August,8,,,,040717
+Gold Coast,QLD,September,9,,,,040717

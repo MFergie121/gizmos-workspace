@@ -25,3 +25,5 @@ Long-term curated memory for Max and Gizmo.
 ## Working agreements
 
 - For every project/repo Max and Gizmo build, there should be a designated Discord channel, and project-related chat should stay confined to that channel.
+- The Gizmo Team refers to the specialist roster in `/Users/maxfergie/.openclaw/workspace/GIZMO_TEAM.md`.
+- Those Gizmo Team specialist roles are for project-building work only, not for general chat or everyday non-project requests.

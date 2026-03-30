@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /Users/maxfergie/.openclaw/workspace/tools/gmail || exit 1
+node gmail.js auth "$@"
