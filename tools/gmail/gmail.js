@@ -81,17 +81,22 @@ async function authorize() {
   return oAuth2Client;
 }
 
+function encodeHeader(value) {
+  return `=?UTF-8?B?${Buffer.from(value, 'utf8').toString('base64')}?=`;
+}
+
 function makeRawMessage({ to, subject, body }) {
   const message = [
     `To: ${to}`,
     'Content-Type: text/plain; charset=utf-8',
+    'Content-Transfer-Encoding: 8bit',
     'MIME-Version: 1.0',
-    `Subject: ${subject}`,
+    `Subject: ${encodeHeader(subject)}`,
     '',
     body,
   ].join('\n');
 
-  return Buffer.from(message)
+  return Buffer.from(message, 'utf8')
     .toString('base64')
     .replace(/\+/g, '-')
     .replace(/\//g, '_')

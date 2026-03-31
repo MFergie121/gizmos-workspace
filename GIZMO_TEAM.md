@@ -1,66 +1,82 @@
-# Gizmo Team v1
+# Gizmo Team v2
 
-Formal naming convention:
-- internal slug = role slug only
-- nickname/name = sourced from Hobbits in The Lord of the Rings
-- formal name = `[Nickname] [Role]`
+The Gizmo Team is now a **skill-based specialist roster** for project-building work.
 
-## Team roster
+## Operating model
 
-- **Frodo Orchestrator**
-  - internal slug: `orchestrator`
-  - role: workflow owner, delegation, sequencing, review gates, handoffs
-
-- **Bilbo Product Lead**
-  - internal slug: `product-lead`
-  - role: product framing, scoping, prioritisation, MVP definition
-
-- **Peregrin Tech Lead**
-  - internal slug: `tech-lead`
-  - role: architecture, implementation planning, engineering tradeoffs
-
-- **Rosie UI/UX Designer**
-  - internal slug: `ui-ux-designer`
-  - role: interaction design, flows, layout, copy, anti-slop review
-
-- **Merry Frontend Engineer**
-  - internal slug: `frontend-engineer`
-  - role: user-facing implementation, component structure, accessibility, polish
-
-- **Samwise Backend Engineer**
-  - internal slug: `backend-engineer`
-  - role: APIs, services, jobs, integrations, reliability
-
-- **Hamfast Database Engineer**
-  - internal slug: `database-engineer`
-  - role: schema, migrations, indexes, query and data-model quality
-
-- **Primula QA Lead**
-  - internal slug: `qa-lead`
-  - role: acceptance criteria, test plans, regressions, release confidence
-
-- **Fredegar Security Reviewer**
-  - internal slug: `security-reviewer`
-  - role: auth, permissions, secrets, privacy, OWASP-style review
-
-- **Odo Release Engineer**
-  - internal slug: `release-engineer`
-  - role: rollout, rollback, release readiness, deployment sanity
-
-- **Drogo Investigator / Retro Lead**
-  - internal slug: `investigator-retro-lead`
-  - role: debugging, incident analysis, retros, process improvement
-
-## Working model
-
-- Frodo Orchestrator decides which specialist should engage and in what order.
+- The Gizmo Team is for **project work only**, not general chat.
+- Each specialist role now has its own workspace skill.
+- The `gizmo-team` skill is the orchestration/workflow layer.
+- Individual roles should be treated as specialists that can be run as their own spawned agents when useful.
 - Not every task needs every role.
-- Default serious delivery flow:
-  1. Bilbo Product Lead
-  2. Peregrin Tech Lead
-  3. Rosie UI/UX Designer
-  4. Merry / Samwise / Hamfast as needed
-  5. Primula QA Lead
-  6. Fredegar Security Reviewer when relevant
-  7. Odo Release Engineer
-  8. Drogo Investigator / Retro Lead after incidents or launches when useful
+- The point is sharper delivery, not pretend corporate theatre.
+
+## Skill roster
+
+- `gizmo-onboarding`
+  - project intake / setup skill for bringing new work into the Gizmo Team system
+
+- `gizmo-team`
+  - workflow/orchestration layer for software project design and delivery
+
+- `gizmo-product-lead`
+  - Bilbo Product Lead
+  - product framing, scoping, prioritisation, MVP definition
+
+- `gizmo-tech-lead`
+  - Peregrin Tech Lead
+  - architecture, implementation planning, engineering tradeoffs
+
+- `gizmo-ui-ux-designer`
+  - Rosie UI/UX Designer
+  - interaction design, flows, layout, copy, anti-slop review
+
+- `gizmo-frontend-engineer`
+  - Merry Frontend Engineer
+  - user-facing implementation, component structure, accessibility, polish
+
+- `gizmo-backend-engineer`
+  - Samwise Backend Engineer
+  - APIs, services, jobs, integrations, reliability
+
+- `gizmo-database-engineer`
+  - Hamfast Database Engineer
+  - schema, migrations, indexes, query and data-model quality
+
+- `gizmo-qa-lead`
+  - Primula QA Lead
+  - acceptance criteria, test plans, regressions, release confidence
+
+- `gizmo-security-reviewer`
+  - Fredegar Security Reviewer
+  - auth, permissions, secrets, privacy, practical risk review
+
+- `gizmo-release-engineer`
+  - Odo Release Engineer
+  - rollout, rollback, release readiness, deployment sanity
+
+- `gizmo-investigator-retro-lead`
+  - Drogo Investigator / Retro Lead
+  - debugging, incident analysis, retros, process improvement
+
+- `gizmo-offboarding`
+  - project wrap-up / handoff / closure skill for preserving context, status, and lessons
+
+## Default serious delivery flow
+1. `gizmo-product-lead`
+2. `gizmo-tech-lead`
+3. `gizmo-ui-ux-designer`
+4. `gizmo-frontend-engineer` / `gizmo-backend-engineer` / `gizmo-database-engineer` as needed
+5. `gizmo-qa-lead`
+6. `gizmo-security-reviewer` when relevant
+7. `gizmo-release-engineer`
+8. `gizmo-investigator-retro-lead` after launches, failures, or when lessons need extracting
+
+## Working principle
+Use the team like a compact software studio:
+- onboard work cleanly with `gizmo-onboarding`
+- choose the right specialists
+- let them contribute from their angle
+- surface real tradeoffs
+- synthesise into one decision-ready plan
+- preserve final state and lessons with `gizmo-offboarding`

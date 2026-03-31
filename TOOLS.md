@@ -54,3 +54,10 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - Use Gmail API / OAuth flow rather than raw password login.
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## Gizmo Team
+
+- Gizmo Team roles are now implemented as workspace skills under `/Users/maxfergie/.openclaw/workspace/skills/`.
+- `gizmo-team` is the workflow/orchestration skill.
+- Individual Gizmo role skills are intended to be usable as specialist spawned agents during project work.
+- The canonical roster/operating model lives in `/Users/maxfergie/.openclaw/workspace/GIZMO_TEAM.md`.
