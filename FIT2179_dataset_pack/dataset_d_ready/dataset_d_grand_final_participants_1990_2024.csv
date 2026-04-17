@@ -1,0 +1,71 @@
+Year,Club,Role,Club_State,Victorian,MCG_Tenant,Home_Ground,Venue,Ladder_Pos,Higher_Ranked,Margin,COVID_Neutral_Venue,Matchup_Type
+1990,Collingwood,Winner,VIC,Yes,Yes,MCG,MCG,1,Yes,48,No,Vic vs Vic
+1990,Essendon,Runner_Up,VIC,Yes,Yes,MCG,MCG,3,No,48,No,Vic vs Vic
+1991,Hawthorn,Winner,VIC,Yes,Yes,MCG,MCG,2,Yes,53,No,Vic vs Interstate
+1991,West Coast,Runner_Up,WA,No,No,Perth Stadium,MCG,3,No,53,No,Vic vs Interstate
+1992,West Coast,Winner,WA,No,No,Subiaco,MCG,4,No,28,No,Vic vs Interstate
+1992,Geelong,Runner_Up,VIC,Yes,No,Kardinia Park,MCG,3,Yes,28,No,Vic vs Interstate
+1993,Essendon,Winner,VIC,Yes,Yes,MCG,MCG,2,No,44,No,Vic vs Vic
+1993,Carlton,Runner_Up,VIC,Yes,Yes,MCG,MCG,1,Yes,44,No,Vic vs Vic
+1994,West Coast,Winner,WA,No,No,Subiaco,MCG,1,Yes,80,No,Vic vs Interstate
+1994,Geelong,Runner_Up,VIC,Yes,No,Kardinia Park,MCG,2,No,80,No,Vic vs Interstate
+1995,Carlton,Winner,VIC,Yes,Yes,MCG,MCG,1,Yes,61,No,Vic vs Vic
+1995,Geelong,Runner_Up,VIC,Yes,No,Kardinia Park,MCG,2,No,61,No,Vic vs Vic
+1996,North Melbourne,Winner,VIC,Yes,No,MCG,MCG,2,No,43,No,Vic vs Interstate
+1996,Sydney,Runner_Up,NSW,No,No,SCG,MCG,1,Yes,43,No,Vic vs Interstate
+1997,Adelaide,Winner,SA,No,No,Football Park,MCG,4,No,31,No,Vic vs Interstate
+1997,St Kilda,Runner_Up,VIC,Yes,No,Docklands,MCG,1,Yes,31,No,Vic vs Interstate
+1998,Adelaide,Winner,SA,No,No,Football Park,MCG,5,No,35,No,Vic vs Interstate
+1998,North Melbourne,Runner_Up,VIC,Yes,No,MCG,MCG,1,Yes,35,No,Vic vs Interstate
+1999,North Melbourne,Winner,VIC,Yes,No,MCG,MCG,2,Yes,35,No,Vic vs Vic
+1999,Carlton,Runner_Up,VIC,Yes,Yes,MCG,MCG,6,No,35,No,Vic vs Vic
+2000,Essendon,Winner,VIC,Yes,Yes,MCG,MCG,1,Yes,60,No,Vic vs Vic
+2000,Melbourne,Runner_Up,VIC,Yes,Yes,MCG,MCG,3,No,60,No,Vic vs Vic
+2001,Brisbane Lions,Winner,QLD,No,No,Gabba,MCG,2,No,26,No,Vic vs Interstate
+2001,Essendon,Runner_Up,VIC,Yes,Yes,MCG,MCG,1,Yes,26,No,Vic vs Interstate
+2002,Brisbane Lions,Winner,QLD,No,No,Gabba,MCG,2,Yes,9,No,Vic vs Interstate
+2002,Collingwood,Runner_Up,VIC,Yes,Yes,MCG,MCG,4,No,9,No,Vic vs Interstate
+2003,Brisbane Lions,Winner,QLD,No,No,Gabba,MCG,3,No,50,No,Vic vs Interstate
+2003,Collingwood,Runner_Up,VIC,Yes,Yes,MCG,MCG,2,Yes,50,No,Vic vs Interstate
+2004,Port Adelaide,Winner,SA,No,No,Football Park,MCG,1,Yes,40,No,Interstate vs Interstate
+2004,Brisbane Lions,Runner_Up,QLD,No,No,Gabba,MCG,2,No,40,No,Interstate vs Interstate
+2005,Sydney,Winner,NSW,No,No,SCG,MCG,3,No,4,No,Interstate vs Interstate
+2005,West Coast,Runner_Up,WA,No,No,Perth Stadium,MCG,1,Yes,4,No,Interstate vs Interstate
+2006,West Coast,Winner,WA,No,No,Subiaco,MCG,3,No,1,No,Interstate vs Interstate
+2006,Sydney,Runner_Up,NSW,No,No,SCG,MCG,1,Yes,1,No,Interstate vs Interstate
+2007,Geelong,Winner,VIC,Yes,No,Kardinia Park,MCG,1,Yes,119,No,Vic vs Interstate
+2007,Port Adelaide,Runner_Up,SA,No,No,Football Park,MCG,2,No,119,No,Vic vs Interstate
+2008,Hawthorn,Winner,VIC,Yes,Yes,MCG,MCG,2,No,26,No,Vic vs Vic
+2008,Geelong,Runner_Up,VIC,Yes,No,Kardinia Park,MCG,1,Yes,26,No,Vic vs Vic
+2009,Geelong,Winner,VIC,Yes,No,Kardinia Park,MCG,2,No,12,No,Vic vs Vic
+2009,St Kilda,Runner_Up,VIC,Yes,No,Docklands,MCG,1,Yes,12,No,Vic vs Vic
+2010,Collingwood,Winner,VIC,Yes,Yes,MCG,MCG,1,Yes,56,No,Vic vs Vic
+2010,St Kilda,Runner_Up,VIC,Yes,No,Docklands,MCG,3,No,56,No,Vic vs Vic
+2011,Geelong,Winner,VIC,Yes,No,Kardinia Park,MCG,2,No,38,No,Vic vs Vic
+2011,Collingwood,Runner_Up,VIC,Yes,Yes,MCG,MCG,1,Yes,38,No,Vic vs Vic
+2012,Sydney,Winner,NSW,No,No,SCG,MCG,3,No,10,No,Vic vs Interstate
+2012,Hawthorn,Runner_Up,VIC,Yes,Yes,MCG,MCG,1,Yes,10,No,Vic vs Interstate
+2013,Hawthorn,Winner,VIC,Yes,Yes,MCG,MCG,1,Yes,15,No,Vic vs Interstate
+2013,Fremantle,Runner_Up,WA,No,No,Perth Stadium,MCG,3,No,15,No,Vic vs Interstate
+2014,Hawthorn,Winner,VIC,Yes,Yes,MCG,MCG,2,No,63,No,Vic vs Interstate
+2014,Sydney,Runner_Up,NSW,No,No,SCG,MCG,1,Yes,63,No,Vic vs Interstate
+2015,Hawthorn,Winner,VIC,Yes,Yes,MCG,MCG,3,No,46,No,Vic vs Interstate
+2015,West Coast,Runner_Up,WA,No,No,Perth Stadium,MCG,2,Yes,46,No,Vic vs Interstate
+2016,Western Bulldogs,Winner,VIC,Yes,No,Docklands,MCG,7,No,22,No,Vic vs Interstate
+2016,Sydney,Runner_Up,NSW,No,No,SCG,MCG,1,Yes,22,No,Vic vs Interstate
+2017,Richmond,Winner,VIC,Yes,Yes,MCG,MCG,3,No,48,No,Vic vs Interstate
+2017,Adelaide,Runner_Up,SA,No,No,Football Park,MCG,1,Yes,48,No,Vic vs Interstate
+2018,West Coast,Winner,WA,No,No,Perth Stadium,MCG,2,Yes,5,No,Vic vs Interstate
+2018,Collingwood,Runner_Up,VIC,Yes,Yes,MCG,MCG,3,No,5,No,Vic vs Interstate
+2019,Richmond,Winner,VIC,Yes,Yes,MCG,MCG,3,Yes,89,No,Vic vs Interstate
+2019,Greater Western Sydney,Runner_Up,NSW,No,No,Sydney Showground,MCG,6,No,89,No,Vic vs Interstate
+2020,Richmond,Winner,VIC,Yes,Yes,MCG,Gabba,3,Yes,31,Yes,Vic vs Vic
+2020,Geelong,Runner_Up,VIC,Yes,No,Kardinia Park,Gabba,4,No,31,Yes,Vic vs Vic
+2021,Melbourne,Winner,VIC,Yes,Yes,MCG,Perth Stadium,1,Yes,74,Yes,Vic vs Vic
+2021,Western Bulldogs,Runner_Up,VIC,Yes,No,Docklands,Perth Stadium,5,No,74,Yes,Vic vs Vic
+2022,Geelong,Winner,VIC,Yes,No,Kardinia Park,MCG,1,Yes,81,No,Vic vs Interstate
+2022,Sydney,Runner_Up,NSW,No,No,SCG,MCG,3,No,81,No,Vic vs Interstate
+2023,Collingwood,Winner,VIC,Yes,Yes,MCG,MCG,1,Yes,4,No,Vic vs Interstate
+2023,Brisbane Lions,Runner_Up,QLD,No,No,Gabba,MCG,2,No,4,No,Vic vs Interstate
+2024,Brisbane Lions,Winner,QLD,No,No,Gabba,MCG,5,No,60,No,Interstate vs Interstate
+2024,Sydney,Runner_Up,NSW,No,No,SCG,MCG,1,Yes,60,No,Interstate vs Interstate
