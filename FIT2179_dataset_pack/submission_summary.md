@@ -12,7 +12,11 @@ Home-ground advantage is one of the most common assumptions in sport, but it is 
 ## What
 The visualisation combines several real-world AFL-related datasets from multiple public sources, together with a small number of derived chart-ready datasets prepared for Tableau.
 
-The main regular-season source is **AFL match data from 2010 to 2024**, taken from the AFL-Data-Analysis GitHub repository, which in turn uses AFL Tables data as its underlying source. This dataset provides the core match information needed for the project, including teams, dates, venues, scores, results, and home/away context. It was used because it makes it possible to test whether home-ground advantage exists across the modern AFL era and whether that pattern changes by team, venue, or season.
+The main regular-season source is **AFL match data from 2010 to 2024**, taken from the AFL-Data-Analysis GitHub repository, which in turn uses AFL Tables data as its underlying source.
+- AFL-Data-Analysis GitHub repository: https://github.com/akareen/AFL-Data-Analysis
+- AFL Tables home/away and historical AFL data: http://afltables.com/
+
+This dataset provides the core match information needed for the project, including teams, dates, venues, scores, results, and home/away context. It was used because it makes it possible to test whether home-ground advantage exists across the modern AFL era and whether that pattern changes by team, venue, or season.
 
 To make this source suitable for analysis, the match-level data was transformed into two main derived tables:
 - a **team-game dataset** with one row per team per match
@@ -20,11 +24,19 @@ To make this source suitable for analysis, the match-level data was transformed 
 
 These files support charts such as league-wide home vs away win rate, team-level home vs away comparisons, the familiarity comparison, and the fortress-style venue analysis.
 
-The project also uses **Bureau of Meteorology (BOM) climate data** for selected AFL host cities. Monthly climate statistics were collected for March to September so that venue conditions could be compared with a team’s usual home conditions. This source was included to test whether environmental unfamiliarity, especially differences in temperature and rainfall, might help explain home-ground advantage.
+The project also uses **Bureau of Meteorology (BOM) climate data** for selected AFL host cities.
+- BOM climate data portal: http://www.bom.gov.au/climate/data/
+- BOM station index / station reference tables: http://www.bom.gov.au/climate/averages/tables/ca_site_file_names.shtml
+
+Monthly climate statistics were collected for March to September so that venue conditions could be compared with a team’s usual home conditions. This source was included to test whether environmental unfamiliarity, especially differences in temperature and rainfall, might help explain home-ground advantage.
 
 Because Tableau relationships proved awkward for this comparison, the climate data was also prepared into a **chart-ready climate match dataset**. This file combines team-game rows with venue climate, home-city climate, and difference measures such as temperature difference and rainfall difference. This made it possible to build environmental comparison charts without relying on unstable multi-table relationships inside Tableau.
 
-For the final section of the visualisation, the project uses a **manually prepared AFL Grand Final summary dataset covering 1990 to 2024**. This dataset was assembled from AFL Tables and supporting reference material so that the Grand Final could be analysed separately from the regular season. It includes winner, runner-up, venue, margin, ladder positions, club state, and familiarity-related fields such as whether the winning club was an MCG tenant.
+For the final section of the visualisation, the project uses a **manually prepared AFL Grand Final summary dataset covering 1990 to 2024**. This dataset was assembled from AFL Tables and supporting reference material so that the Grand Final could be analysed separately from the regular season.
+- AFL Tables Grand Finals: http://afltables.com/afl/teams/allteams/gfgames.html
+- AFL Tables ladders: http://afltables.com/afl/seas/ladders/laddersyby.html
+
+It includes winner, runner-up, venue, margin, ladder positions, club state, and familiarity-related fields such as whether the winning club was an MCG tenant.
 
 A second **participant-level Grand Final dataset** was then created from this summary file, with two rows per Grand Final: one for the winner and one for the runner-up. This participant-level structure was necessary for the final expected-versus-actual comparison. It allows the visualisation to compare the share of Victorian or MCG-familiar clubs among Grand Final participants against the share among actual winners.
 
